@@ -1,7 +1,7 @@
 BiboxEurope Exchange provides REST API and WebSocket API, which are convenient for investors to view the market and trade easily. 
 
 ### BiboxEurope Exchange
-https://www.BiboxEurope.cc
+https://www.bibox.cc
 
 # REST API
 * [REST API Introduction](https://github.com/BiboxEurope/API_Docs_en/wiki/REST_introduction)
